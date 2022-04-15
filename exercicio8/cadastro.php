@@ -41,7 +41,7 @@ border"><br>
 <label class="w3-text-teal" style="font-weight: bold;">Nome da Mãe</label>
  <input name="txtmae" class="w3-input w3-light-grey w3-
 border"><br>
-<label class="w3-text-teal" style="font-weight: bold;">NIS</label>
+<label class="w3-text-teal" style="font-weight: bold;">NIS(número)</label>
  <input name="txtnis" class="w3-input w3-light-grey w3-
 border"><br>
 <label class="w3-text-teal" style="font-weight: bold;">CPF</label>
