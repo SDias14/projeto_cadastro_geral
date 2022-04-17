@@ -2,7 +2,7 @@
 $db_host = 'localhost';
 $db_user = 'root';
 $db_password = 'root';
-$db_db = 'geral';
+$db_db = 'login';
 
 $mysqli = @new mysqli(
   $db_host,
