@@ -6,7 +6,7 @@ session_start();
 $nome = $_POST['txtNome'];
 $senha = $_POST['txtSenha'];
 require_once 'conexaoBD.php';
-$sql = "SELECT *FROM id_login WHERE nome = '".$nome."';";
+$sql= "SELECT *FROM id_login WHERE nome = '".$nome."';";
 $resultado = $conexao->query($sql);
 //echo $sql;
 $linha = mysqli_fetch_array($resultado);
